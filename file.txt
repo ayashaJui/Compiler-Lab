@@ -1,0 +1,16 @@
+void main()
+{
+int a=0,b=2,c=3,d=4,3f;
+a=((a+b)*(b+c)/d;
+
+if(a  b){
+	a=a+d
+}
+else{
+	a=a-d;
+}
+
+while(a > b){
+	printf("Hello");
+}
+}
